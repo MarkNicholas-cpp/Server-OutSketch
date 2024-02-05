@@ -57,7 +57,7 @@ Welcome, Students! This guide will walk you through setting up the backend Node.
 
 1. Run the command `nodemon` in the VS Code terminal.
 2. Verify that the log displays "Server up and running."
-3. Navigate to `localhost:3000/Task` to perform a GET request and ensure server APIs are functioning.
+3. Navigate to `localhost:3000/Task-SQL` for Xampp Sql Tasks or `localhost:3000/Task-oracle` for the oracle Database to perform a GET request and ensure server APIs are functioning.
 
 ## Step 9: Features Implementation
 
