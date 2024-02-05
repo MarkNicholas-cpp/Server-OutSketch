@@ -1,4 +1,4 @@
-//Database Connection file
+//use this file if you are using the database is Oracle Database
 const oracledb = require('oracledb')
 // Database config.
 const dbConfig = {
